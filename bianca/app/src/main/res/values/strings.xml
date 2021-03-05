@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">bianca</string>
+    <string name="admin_username" translatable="false">admin</string>
+    <string name="admin_password" translatable="false">admin</string>
+
+    <string name="title_home">Rangliste</string>
+    <string name="title_about">Über</string>
+    <string name="title_main">Fragen</string>
+    <string name="title_training">Training</string>
+    <string name="title_settings">Einstellungen</string>
+
+    <!-- login / register -->
+    <string name="login_header">Bereits registriert? Log dich jetzt ein!</string>
+    <string name="register_header">Such dir einen einzigartigen Namen und ein sicheres Passwort aus!</string>
+    <string name="login_btn">Einloggen</string>
+    <string name="register_btn">Registrieren</string>
+    <string name="login_name">Name</string>
+    <string name="login_pass">Passwort</string>
+    <string name="register_name">Name</string>
+    <string name="register_pass">Passwort</string>
+    <string name="register_pass_repeat">Passwort (nochmal)</string>
+
+    <!-- about -->
+    <string name="about_header">Über Uns</string>
+
+    <!-- home -->
+    <string name="home_header">Rangliste</string>
+
+    <!-- training -->
+    <string name="training_header">In welche Klasse gehst du?</string>
+
+    <string name="gymnasium_g8" translatable="false">Gymnasium G8</string>
+    <string name="gymnasium_g9" translatable="false">Gymnasium G9</string>
+    <string name="berufliches_gymnasium" translatable="false">Berufliches Gymnasium</string>
+
+    <string name="gymnasium_5" translatable="false">5</string>
+    <string name="gymnasium_6" translatable="false">6</string>
+    <string name="gymnasium_7" translatable="false">7</string>
+    <string name="gymnasium_8" translatable="false">8</string>
+    <string name="gymnasium_9" translatable="false">9</string>
+    <string name="gymnasium_10" translatable="false">10</string>
+    <string name="gymnasium_e" translatable="false">E</string>
+    <string name="gymnasium_q1" translatable="false">Q1</string>
+    <string name="gymnasium_q2" translatable="false">Q2</string>
+    <string name="gymnasium_q3" translatable="false">Q3</string>
+    <string name="gymnasium_q4" translatable="false">Q4</string>
+
+    <!-- errors -->
+    <string name="error_default">Melde dich bitte beim Entwickler!</string>
+    <string name="error_login_wrongPass">Das Passwort stimmt nicht ganz!</string>
+    <string name="error_login_wrongPassRepeat">Die Passwörter stimmen nicht überein!</string>
+    <string name="error_login_wrongName">Der Name ist noch nicht registriert!</string>
+    <string name="error_register_alreadyExists">Dieser Name ist bereits vergeben!</string>
+    <string name="error_success">Änderung erfolgreich!</string>
+
+    <!-- intent/bundle -->
+    <string name="bundle_name" translatable="false">name</string>
+    <string name="bundle_key" translatable="false">key</string>
+
+    <!-- helpers -->
+    <string name="prefix_name">Hi,</string>
+    <string name="prefix_lessonHeader">\nKlasse</string>
+    <string name="delimiter_key" translatable="false">#</string>
+
+    <!-- settings -->
+    <string name="settings_save">Speichern</string>
+    <string name="settings_changeName">Name ändern</string>
+    <string name="settings_changePass">Passwort ändern</string>
+    <string name="settings_changeLang">Sprache ändern</string>
+    <string name="settings_selectQuestions">Fragen auswählen</string>
+    <string name="settings_logout">Ausloggen</string>
+    <string name="settings_logout_text">Willst du dich sicher ausloggen?</string>
+
+    <string name="lang_de" translatable="false">de</string>
+    <string name="lang_en" translatable="false">en</string>
+    <string name="lang_tr" translatable="false">tr</string>
+
+    <string name="settings_changeLang_de" translatable="false">Deutsch</string>
+    <string name="settings_changeLang_en" translatable="false">English</string>
+    <string name="settings_changeLang_tr" translatable="false">Türk</string>
+</resources>

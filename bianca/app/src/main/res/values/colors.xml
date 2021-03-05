@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="first">#ffffff</color>
+    <color name="second">#000000</color>
+    <color name="accent">#D31323AC</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="good">#6FE2B3</color>
+    <color name="good_hint">#226FE2B3</color>
+    <color name="medium">#5BC9FA</color>
+    <color name="medium_hint">#225BC9FA</color>
+    <color name="bad">#ED7563</color>
+    <color name="bad_hint">#22ED7563</color>
+    <color name="gold">#d4af37</color>
+    <color name="silver">#c0c0c0</color>
+    <color name="bronze">#9f7a34</color>
+
+    <color name="bottom_nav_default">#6affffff</color>
+    <color name="bottom_nav_active">#D31323AC</color>
+</resources>

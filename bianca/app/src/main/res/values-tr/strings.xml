@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">bianca</string>
+    <string name="title_home">Evde</string>
+    <string name="title_about">Hakkında</string>
+    <string name="title_main">Canlı</string>
+    <string name="title_training">Eğitim</string>
+    <string name="title_settings">Ayarlar</string>
+    <string name="login_header">Zaten kayıtlı? Şimdi giriş yap!</string>
+    <string name="register_header">Benzersiz bir ad ve güvenli bir şifre seçin!</string>
+    <string name="login_btn">Oturum aç</string>
+    <string name="register_btn">Kayıt olmak</string>
+    <string name="login_name">Soyadı</string>
+    <string name="register_name">Soyadı</string>
+    <string name="login_pass">Parola</string>
+    <string name="register_pass">Parola</string>
+    <string name="register_pass_repeat">Parola (bir kere daha)</string>
+    <string name="about_header">Hakkımızda</string>
+    <string name="home_header">Sıralama</string>
+    <string name="training_header">Hangi sınıftasın</string>
+    <string name="error_login_wrongName">İsim henüz kayıtlı değil!</string>
+    <string name="error_login_wrongPass">Parola tamamen doğru değil!</string>
+    <string name="error_default">Geliştiriciyle iletişime geçin.</string>
+    <string name="prefix_name">Selam,</string>
+    <string name="prefix_lessonHeader">\nSınıf</string>
+    <string name="settings_save">Kaydetmek</string>
+    <string name="settings_changeName">Ismini değiştir</string>
+    <string name="settings_changePass">Şifre değiştir</string>
+    <string name="settings_changeLang">Dili değiştir</string>
+    <string name="settings_selectQuestions">Soru seçin</string>
+    <string name="settings_logout">Çıkış Yap</string>
+    <string name="settings_logout_text">Güvenli bir şekilde çıkış yapmak istiyor musunuz?</string>
+</resources>
